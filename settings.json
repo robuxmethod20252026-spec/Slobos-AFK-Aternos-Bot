@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KAJAUS_SMP.aternos.me",
-    "port": 53195,
+    "ip": "DuonosSMP.aternos.me",
+    "port": 36029,
     "version": "",
     "try-creative": false
   },
